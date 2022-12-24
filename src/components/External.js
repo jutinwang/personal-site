@@ -1,15 +1,15 @@
-import React from 'react'
+// import React from 'react'
 
-const External = () => {
-  return (
-    <div style = {styles.view}></div>
-  )
-}
+// const External = () => {
+//   return (
+//     <div style = {styles.view}></div>
+//   )
+// }
 
-const styles = StyleSheet.create({
-    view:{
-        borderColor: "red"
-    }
-})
+// const styles = StyleSheet.create({
+//     view:{
+//         borderColor: "red"
+//     }
+// })
 
-export default External
+// export default External
