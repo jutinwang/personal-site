@@ -4,7 +4,7 @@ import Header from './components/header'
 import Description from './components/Description';
 import Resume from './components/Resume';
 import Slideshow from './components/Slideshow';
-import External from './components/External';
+//import External from './components/External';
 
 function App() {
   return (
