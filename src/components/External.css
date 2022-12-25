@@ -1,17 +1,25 @@
 .externalLinks{
     border: 5px solid gray;
     padding: 10px;
-    width: 250px;
+    width: 350px;
     margin-left: auto;
     margin-right: auto;
+    display: table;
 }
 
 .linkedin{
-    width: 95px;
-    height: 95px;
+    width: 100px;
+    height: 100px;
+    float: left;
 }
 
 .github{
-    width: 95px;
-    height: 95px;
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+.resume{
+    width: 100px;
+    height: 100px;
 }

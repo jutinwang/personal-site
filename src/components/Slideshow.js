@@ -31,7 +31,7 @@ const Slideshow = () => {
   return (
     
     <div>
-        <h2>Project Showcase</h2>
+        <h2 className='showcaseTitle'>Project Showcase</h2>
             <div className="slideshow">
                 <div className="slideshowSlider">
 

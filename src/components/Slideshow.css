@@ -9,7 +9,8 @@
 .slideshowSlider {
     white-space: nowrap;
     transition: ease 1000ms;
-    transform: translate3d(-index * 100, 0, 0)
+    transform: translate3d(-index * 100, 0, 0);
+    height: 1000px
     
 }
 
@@ -39,3 +40,8 @@
 .slideshowDot.active {
     background-color: black;
   }
+
+.showcaseTitle{
+    text-align:center;
+    text-decoration: underline;
+}
