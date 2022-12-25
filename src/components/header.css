@@ -1,5 +1,16 @@
+.head{
+    display: flex;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+}
+
+.text{
+    text-align: left;
+}
+
 .image{
     border-radius: 30px;
-    height: 500px;
-    width: 500px;
+    height: 250px;
+    width: 250px;
 }
