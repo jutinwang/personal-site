@@ -36,7 +36,7 @@ const Slideshow = () => {
                 <div className="slideshowSlider">
 
                     <p>{imageDescription[index]}</p>
-                    <img src= {images[index]} alt='Justin Wang Resume'></img>
+                    <img src= {images[index]} alt='Justin Wang Projects'></img>
                     {images.map((index) => (
                     <div
                         className="slide"
