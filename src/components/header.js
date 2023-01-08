@@ -5,7 +5,7 @@ import Typewriter from 'typewriter-effect';
 const header = () => {
   return (
     <div className='head'>
-        <img class = "headshot" src='justin_wang.jpeg' alt='justin wang headshot' ></img>
+        <img class = "headshot" src='new_headshot.png' alt='justin wang headshot' ></img>
         <div className='text'>
           <h1>Hi, I am</h1>
           <h1>Justin Wang</h1>

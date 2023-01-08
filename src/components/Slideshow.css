@@ -10,7 +10,6 @@
     white-space: nowrap;
     transition: ease 1000ms;
     transform: translate3d(-index * 100, 0, 0);
-    height: 1000px
     
 }
 

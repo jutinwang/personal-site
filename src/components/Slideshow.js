@@ -1,7 +1,7 @@
 import React from 'react'
 import './Slideshow.css';
 // https://tinloof.com/blog/how-to-build-an-auto-play-slideshow-with-react
-const images = ["Justinwang_Resume.png", "mealer_photo.jpeg", "bot_spotify.png"];
+const images = ["new_path_finding.png", "new_mealer_image.png", "new_discord_bot_image.png"];
 const imageDescription = ["Path Finding Algorithm Visualizer", "Food Ordering App", "Discord Bot w/ Spotify API Commands"]
 const delay = 2500;
 
