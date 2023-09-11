@@ -11,7 +11,7 @@ const External = () => {
             <a href='https://github.com/jutinwang' target="_blank" rel="noopener noreferrer"><img class = 'github' src='github.png' alt = 'github logo'></img></a>
         </div>
         <div className='resumeImage'>
-            <a href="justin_wang_resume.pdf" download><button type="button"><img class = 'resume' src='resume_icon.png' alt = 'resume icon'></img></button></a>
+            <a href="Justin_Wang_Resume_2023.pdf" download><button type="button"><img class = 'resume' src='resume_icon.png' alt = 'resume icon'></img></button></a>
         </div>
     </div>
   )
