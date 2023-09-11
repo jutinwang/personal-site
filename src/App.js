@@ -1,5 +1,6 @@
 import './App.css';
-import Header from './components/header'
+import Headshot from './components/headshot';
+import Header from './components/header';
 import Description from './components/Description';
 import Slideshow from './components/Slideshow';
 import External from './components/External';
@@ -7,6 +8,7 @@ import External from './components/External';
 function App() {
   return (
     <div className="App">
+      <Headshot />
       <Header />
       <Description />
       <Slideshow />

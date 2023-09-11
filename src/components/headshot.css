@@ -2,7 +2,7 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 10px;
+    padding-bottom: 20px;
     border-radius: 15px;
 }
 
@@ -22,5 +22,5 @@
   
   /* When you mouse over the container, the overlay text will "zoom" in display */
   .head:hover .headshot {
-    transform: scale(1.5);
+    transform: scale(1);
   }
