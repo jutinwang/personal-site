@@ -12,7 +12,7 @@ const header = () => {
           <Typewriter
           onInit={
             (typewriter) => {
-              typewriter.typeString('Currently a 2nd year CS student at the University of Otttawa.')
+              typewriter.typeString('Currently a 3rd year CS student at the University of Otttawa.')
                 .pauseFor(2500)
                 .start()
             }
