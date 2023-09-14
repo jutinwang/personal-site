@@ -7,33 +7,7 @@
     display: table;
 }
 
-.linkedin{
-    width: 100px;
-    height: 100px;
-    float: left;
-}
-
-.Resumebutton {
-    width: 130px; /* Adjust as needed */
-    height: 100px; /* Adjust as needed */
-    border-radius: 30px; /* Reduced border-radius for a smoother look */
-    background-color: #a1a1a4;
-    color: #fff; /* Text color */
-    font-size: 20px; /* Font size */
-    text-align: center; /* Center text horizontally */
-    line-height: 100px; /* Center text vertically */
-    border: none; /* Remove the default button border */
-    cursor: pointer;
-    transition: background-color 0.3s; /* Smooth hover effect */
-    font-family: 'Roboto', sans-serif; /* Apply the chosen font */
-}
-
-.Resumebutton:hover {
-    background-color: #0a0059; /* Darker background color on hover */
-}
-
-.github{
-    width: 100px;
-    height: 100px;
-    float: right;
+.icon {
+    width: 100px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
 }

@@ -36,11 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.headInfo{
-  margin: auto;
-  width: auto;
-  height: auto;
-  padding: 100px;
-  align-content: center;
-}

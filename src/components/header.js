@@ -5,8 +5,7 @@ import Typewriter from 'typewriter-effect';
 const header = () => {
   return (
     <div className='information'>
-      <img className="headshot" src='new_headshot.png' alt='justin wang headshot' />
-      <div className="text-container">
+      <img class="headshot" src='new_headshot.png' alt='justin wang headshot' />
         <h1>Hi, I'm <br /> Justin Wang </h1>
         <Typewriter
           className="University"
@@ -25,7 +24,6 @@ const header = () => {
         />
         <p>Previously worked at the Royal Bank of Canada as an iOS and Android Developer.</p>
         <p>Created projects which demonstrate knowledge of web stack, Android, and iOS development.</p>
-      </div>
     </div>
   );
 };
