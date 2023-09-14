@@ -8,9 +8,13 @@ import External from './components/External';
 function App() {
   return (
     <div className="App">
-      <Headshot />
-      <Header />
-      <Description />
+      <div className="Headbackground">
+        <div className="headInfo">
+          <Headshot />
+          <Header />
+        </div>
+      </div>
+      {/* <Description /> */}
       <Slideshow />
       <External />
     </div>

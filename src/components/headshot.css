@@ -2,8 +2,9 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    padding-bottom: 20px;
-    border-radius: 15px;
+    padding-top: 20px;
+    /* border-radius: 15px; */
+    float: left;
 }
 
 /* The overlay effect (full height and width) - lays on top of the container and over the image */

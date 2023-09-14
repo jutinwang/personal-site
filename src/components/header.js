@@ -6,8 +6,7 @@ const header = () => {
   return (
     <div className='information'>
       <div className='text'>
-        <h1>Hi, I am</h1>
-        <h1>Justin Wang</h1>
+        <h1>Hi, I'm Justin Wang</h1>
         <Typewriter
         onInit={
           (typewriter) => {
@@ -25,6 +24,8 @@ const header = () => {
               .start();
           }}
         />
+        <p>Previously worked at the Royal Bank of Canada as an iOS and Android Developer.</p>
+        <p>Created projects which demonstrate knowledge of web stack, android, and iOS development.</p>
       </div>
     </div>
   )
