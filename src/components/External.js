@@ -6,10 +6,16 @@ import DescriptionIcon from '@mui/icons-material/Description';
 
 const External = () => {
   return (
-    <div className='externalLinks'>
-      <a href='https://www.linkedin.com/in/justin-wang-181b28203/' target="_blank" rel="noopener noreferrer"><LinkedInIcon class="icon"/></a>
-      <a href='https://github.com/jutinwang' target="_blank" rel="noopener noreferrer"><GitHubIcon class="icon"/></a>
-      <a href="Justin_Wang_Resume_2023.pdf" download><DescriptionIcon class="icon"/></a>
+    <div class='externalLinks'>
+      <div class='icon1'>
+        <a href='https://www.linkedin.com/in/justin-wang-181b28203/' target="_blank" rel="noopener noreferrer"><LinkedInIcon class="linkedin"/></a>
+      </div>
+      <div class='icon2'>
+        <a href='https://github.com/jutinwang' target="_blank" rel="noopener noreferrer"><GitHubIcon class="github"/></a>
+      </div>
+      <div class='icon3'>
+        <a href="Justin_Wang_Resume_2023.pdf" download><DescriptionIcon class="resume"/></a>
+      </div>
     </div>
   )
 }

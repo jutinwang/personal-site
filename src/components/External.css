@@ -1,5 +1,4 @@
 .externalLinks{
-    /* border: 5px solid gray; */
     padding: 10px;
     width: 350px;
     margin-left: auto;
@@ -7,7 +6,41 @@
     display: table;
 }
 
-.icon {
-    width: 100px; /* Adjust the width as needed */
-    height: 100px; /* Adjust the height as needed */
+.icon1 {
+    display:inline-block;
+}
+
+.icon2 {
+    display: inline-block;
+}
+
+.icon3 {
+    display: inline-block;
+}
+
+.linkedin {
+    width: 100px;
+    height: 100px; 
+}
+
+.resume {
+    width: 100px;
+    height: 100px; 
+}
+
+.github {
+    width: 100px;
+    height: 100px; 
+}
+
+.icon1:hover .linkedin {
+    transform: rotate(20deg);
+  }
+
+.icon2:hover .github {
+    transform: rotate(20deg);
+}
+
+.icon3:hover .resume {
+    transform: rotate(20deg);
 }
