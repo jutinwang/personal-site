@@ -1,5 +1,4 @@
 import './App.css';
-import Headshot from './components/headshot';
 import Header from './components/header';
 import Description from './components/Description';
 import Slideshow from './components/Slideshow';
