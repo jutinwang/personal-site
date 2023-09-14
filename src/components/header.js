@@ -6,8 +6,9 @@ const header = () => {
   return (
     <div className='information'>
       <div className='text'>
-        <h1>Hi, I'm Justin Wang</h1>
-        <Typewriter
+        <h2>Hi, I'm </h2>
+        <h1>Justin Wang</h1>
+        <Typewriter class = "University"
         onInit={
           (typewriter) => {
             typewriter.typeString('Currently a 3rd year CS student at the University of Otttawa.')

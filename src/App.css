@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  background-color: aliceblue;
 }
 
 .App-logo {
@@ -38,14 +37,10 @@
   }
 }
 
-.Headbackground {
-  background-color: black;
-}
-
 .headInfo{
   margin: auto;
-  width: 60%;
-  /* background-color: white; */
+  width: auto;
+  height: auto;
+  padding: 100px;
   align-content: center;
-  padding-bottom: 20px;
 }

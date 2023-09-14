@@ -1,6 +1,6 @@
 .text {
   text-align: left;
   overflow: hidden;
-  padding-left: 20px;
-  color: aliceblue;
+  padding: 100px;
+  color: black;
 }
