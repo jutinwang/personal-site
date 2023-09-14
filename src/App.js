@@ -9,11 +9,10 @@ function App() {
   return (
     <div className="App">
       <div className="headInfo">
-        <Headshot />
+        {/* <Headshot /> */}
         <Header />
       </div>
       <External />
-
     </div>
   );
 }

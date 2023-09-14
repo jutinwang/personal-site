@@ -1,6 +1,25 @@
-.text {
-  text-align: left;
+.text-container {
   overflow: hidden;
   padding: 100px;
   color: black;
+  text-align: left;
+}
+
+.headshot{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  border-radius: 250px;
+}
+
+h1 {
+  margin-bottom: 0;
+  font-size: 3em;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+.information {
+  display: flex;
 }
