@@ -10,7 +10,7 @@ const header = () => {
       <Typewriter
         className="University"
         onInit={(typewriter) => {
-          typewriter.typeString('Currently a 3rd year CS student at the University of Ottawa.')
+          typewriter.typeString('Currently a 4th year CS student at the University of Ottawa.')
             .pauseFor(2500)
             .start();
         }}
@@ -22,8 +22,8 @@ const header = () => {
             .start();
         }}
       />
-      <p>Previously worked at the Royal Bank of Canada as an iOS and Android Developer.</p>
-      <p>Created projects which demonstrate knowledge of web stack, Android, and iOS development.</p>
+      <p>Worked at the Royal Bank of Canada, Nokia and Telesat Canada.</p>
+      <p>Created projects which demonstrate proficency in full stack web development.</p>
     </div>
   );
 };

@@ -14,7 +14,7 @@ const External = () => {
         <a href='https://github.com/jutinwang' target="_blank" rel="noopener noreferrer"><GitHubIcon class="github"/></a>
       </div>
       <div class='icon3'>
-        <a href="Justin_Wang_Resume_2023.pdf" download><DescriptionIcon class="resume"/></a>
+        <a href="Justin-Wang-Resume.pdf" download><DescriptionIcon class="resume"/></a>
       </div>
     </div>
   )
